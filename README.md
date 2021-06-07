@@ -15,8 +15,8 @@
 
 # ____RUN____
 
-python2 bruteforc.py
+`python2 bruteforc.py`
 
 
 
-# ____Happy Hacking___
+# ___Happy Hacking___
